@@ -1,0 +1,127 @@
+body{
+	background-color: white;
+}
+.part1{
+		
+	background-color: #19301F;
+}
+
+.imageme{
+    width:35px;
+    height:35px;
+    border-radius:50%;
+    overflow:hidden;
+}
+.FromSecondPart{
+	width: 75%;
+	margin-left: 100px;
+	margin-top: 20px;
+}
+.secondRowImage{
+	padding-top: 40px;
+	margin-top: 30px;
+	margin-left: 90px;
+	margin-right: 400px;
+	height:130px;
+
+}
+.part3{
+	background-color: white;
+	padding-top: 40px;
+	margin-top: 40px;
+	margin-left: 90px;
+	margin-right: 400px;
+	height: 520px;
+	border: 2px solid #DBDBDB;
+
+}
+input.moretext{
+	float:left;
+	width:160px;
+	height:35px;
+	margin-top: 10px;
+    margin-left: 20px;
+}
+.part4{
+	background-color: white;
+	padding-top: 40px;
+	margin-top: 10px;
+	margin-left: 90px;
+	margin-right: 400px;
+	height: 150px;
+	border: 2px solid #DBDBDB;
+	margin-top: 25px;
+	background-size: cover;
+}
+.part5{
+	background-color: #85968A;
+	padding-top: 40px;
+	margin-top: 10px;
+	margin-left: -13px;
+	height: 450px;
+	border: 2px solid #DBDBDB;
+	width: 102%;
+
+}
+onbtn{
+	background-color: green;
+	height: 10px;
+	max-width: 35px;
+	border-radius: 3px;
+	color:white;
+}
+offbtn{
+	background-color:#e0d7d7;
+	height: 10px;
+	max-width: 45px;
+	border-radius: 3px;
+	
+}
+.part51{
+	background-color: white;
+	height:80px;
+	width:1000px;
+	margin-top: 30px;
+	margin-left: -100px;
+	padding-left: 0px;
+}
+.part52{
+	background-color: white;
+	height:210px;
+	width:1000px;
+	margin-top: 20px;
+	margin-left: 30px;
+	padding-left: 0px;
+	margin-bottom: 20px;
+}
+.part6{
+	background-color: white;
+	padding-top: 40px;
+	margin-top: 10px;
+	margin-left: 90px;
+	margin-right: 400px;
+	height: 790px;
+	border: 2px solid #DBDBDB;
+
+
+}
+.part7{
+	background-color: white;
+	padding-top: 40px;
+	margin-top: 10px;
+	margin-left: -15px;
+	margin-right: 400px;
+	height: 220px;
+	width: 103%;
+	border: 2px solid #DBDBDB;
+
+
+}
+.part8{
+	margin-top: 20px;
+	border: 2px solid #DBDBDB;
+	width: 103%;
+	margin-left: -14px;
+
+}
+
